@@ -16,15 +16,15 @@
     new_window: true
 - links:
   - name: Facebook
-    link: 
+    link: https://facebook.com/cloudcannon/
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: 
+    link: https://twitter.com/cloudcannon/
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: 
+    link: https://youtube.com/cloudcannon/
     social_icon: YouTube
     new_window: true
   - name: RSS
