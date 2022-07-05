@@ -16,18 +16,21 @@
     new_window: true
 - links:
   - name: Facebook
-    link: 
+    link: https://www.facebook.com/peter.szeles.5011
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: 
-    social_icon: Twitter
+  - name: Linkedin
+    link: https://www.linkedin.com/in/peter-szeles-03481974/
+    social_icon: LinkedIn
     new_window: true
   - name: YouTube
     link: 
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
+  - name: Instagram
+    link: https://www.instagram.com/peterszeles/
+    social_icon: Instagram
+    new_window: true
+  - name: Github
+    link: https://github.com/peterszeles/
+    new_window: true
